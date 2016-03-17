@@ -4,4 +4,4 @@
 
 #### Usage:
 
-DelayedStart "program you want to execute" "How long to wait in seconds"
+DelayedStart.bat "Program you want to execute" "How long to wait in seconds"
